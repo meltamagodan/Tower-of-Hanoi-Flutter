@@ -16,8 +16,8 @@ This Flutter application implements the classic puzzle game "Tower of Hanoi". In
 - **Visual Feedback**: Each disk is represented by a colorful block, providing a visually engaging experience.
 - **Move Counter**: Keep track of the number of moves taken to solve the puzzle.
 
-## Screenshots
+## Video
 
-
+(vid.mp4)
 
 ---
