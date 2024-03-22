@@ -18,6 +18,6 @@ This Flutter application implements the classic puzzle game "Tower of Hanoi". In
 
 ## Video
 
-[Preview]([vid.mp4](https://github.com/meltamagodan/Tower-of-Hanoi-Flutter/assets/138321333/357bf049-c3de-4cbe-947a-e2cc024bc6d1)https://github.com/meltamagodan/Tower-of-Hanoi-Flutter/assets/138321333/357bf049-c3de-4cbe-947a-e2cc024bc6d1)
+[Preview](https://github.com/meltamagodan/Tower-of-Hanoi-Flutter/assets/138321333/357bf049-c3de-4cbe-947a-e2cc024bc6d1)
 
 ---
