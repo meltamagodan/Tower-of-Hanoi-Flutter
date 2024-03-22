@@ -18,6 +18,6 @@ This Flutter application implements the classic puzzle game "Tower of Hanoi". In
 
 ## Video
 
-[Preview](vid.mp4)
+![Preview](vid.mp4)
 
 ---
